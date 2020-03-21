@@ -11,7 +11,7 @@
 
 
 ## Step 1
-*Open the terminal, select Edit > Profile Preferences. Then on the Command tab, check off 'Run command as login shell'*
+*Open the terminal, select Edit > Profile Preferences. Then on the Title and Command tab, check off 'Run command as login shell'*
 
 ## Step 2
 *Set up group*
