@@ -85,7 +85,10 @@
 * `Slack`
 * `Atom`
 
+#### Config Postgres
+* `sudo -u postgres createuser --superuser $USER`
+* `sudo -u postgres createdb $USER`
+
 *I used the Ubuntu Environment Setup from Flatiron-School and adapted for Linux Mint.
  Here is the link for the Ubuntu Environment Setup*
-
 [Ubuntu Environment Setup](https://github.com/learn-co-curriculum/linux-env-setup)
